@@ -1,0 +1,30 @@
+.rounded {
+	border-radius: 500px;
+}
+
+.pushDownFull {
+	height: 100vh;
+	width: 100vw;
+}
+
+.smol-margin {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.smol-bottom-margin {
+	margin-bottom: 10px;
+}
+
+::-webkit-scrollbar {
+display: none;
+}
+
+.smol-img{
+	height: 150px;
+	width: auto;
+}
+
+/*.devour{
+	width: 150px;
+}*/
